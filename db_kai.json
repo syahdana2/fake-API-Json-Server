@@ -1,0 +1,84 @@
+{
+  "Penumpang": [
+    {
+      "nama": "rohim",
+      "nik": "1234567890",
+      "jenis_kelamin": "pria",
+      "umur": 18,
+      "no_telp": "082228674531",
+      "alamat": "malang",
+      "id": 1
+    },
+    {
+      "nama": "carisa",
+      "nik": "1234567891",
+      "jenis_kelamin": "perempuan",
+      "umur": 20,
+      "no_telp": "082167834681",
+      "alamat": "jombang",
+      "id": 2
+    }
+  ],
+  "Petugas": [
+    {
+      "nama": "dany",
+      "alamat": "kediri",
+      "no_telp": "082543981736",
+      "id": 1
+    },
+    {
+      "nama": "dany",
+      "alamat": "kediri",
+      "no_telp": "082543981736",
+      "id": 2
+    },
+    {
+      "nama": "dania",
+      "alamat": "malang",
+      "no_telp": "082543986574",
+      "id": 3
+    }
+  ],
+  "Tiket": [
+    {
+      "kode_kursi": "1A",
+      "harga": 68,
+      "jam_berangkat": "07.00",
+      "id": 1
+    },
+    {
+      "kode_kursi": "10A",
+      "harga": "68.000",
+      "jam_berangkat": "07.00",
+      "id": 2
+    },
+    {
+      "kode_kursi": "5A",
+      "harga": 68,
+      "jam_berangkat": "07.00",
+      "id": 3
+    }
+  ],
+  "Kereta": [
+    {
+      "nama_kereta": "Gajayana",
+      "kelas": "Bisnis",
+      "id": 1
+    },
+    {
+      "nama_kereta": "Matamarja",
+      "kelas": "Ekonomi",
+      "id": 2
+    },
+    {
+      "nama_kereta": "Argo Lawo",
+      "kelas": "Eksekutif",
+      "id": 3
+    },
+    {
+      "nama_kereta": "Kencana",
+      "kelas": "Ekonomi",
+      "id": 4
+    }
+  ]
+}
